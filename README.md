@@ -2,9 +2,9 @@
 
 ## Overview
 
-A simple react based giphy app for fun lovers to search for giphy images.All the giphy are generated from Giphy Api.
+A simple react based giphy app for fun lovers to search for giphy images. All the giphy are generated from Giphy Api.
 
-Giphy App is hosted on Heroku. Check it out live:
+Giphy App is hosted on Heroku. Check it out live: https://morning-hollows-09146.herokuapp.com/
 
 ## Installation
 
